@@ -34,11 +34,10 @@ Analyzed public sentiment of Pakistani fashion brands using NLP, VADER, and Matp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnaingujjar170&layout=compact&theme=radical" width="48%" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/husnainmahmood170)
 - 📧 husnaingujjar@example.com
 - 🌐 [Portfolio Website](https://your-portfolio.com) _(optional)_
 
