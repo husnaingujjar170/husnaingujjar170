@@ -2,9 +2,8 @@
 
 ### 🚀 Software Engineer | FastAPI & React Developer | Firebase Auth Enthusiast
 
-I'm a Computer Science graduate passionate about building real-world, full-stack applications using modern technologies like **React**, **FastAPI**, **Firebase**, and **Python**. I love creating clean, scalable code and contributing to the developer community.
+I am a Computer Science graduate passionate about building real-world, full-stack applications using modern technologies like **React**, **FastAPI**, **Firebase**, and **Python**. I love creating clean, scalable code and contributing to the developer community.
 
----
 
 ## 🛠 Tech Stack
 
@@ -15,7 +14,6 @@ I'm a Computer Science graduate passionate about building real-world, full-stack
 - **Tools:** Git, GitHub, Vercel, Render, Postman
 - **Other:** Firebase Auth, RESTful APIs, Streamlit, Power BI
 
----
 
 ## 📂 Notable Projects
 
@@ -28,7 +26,6 @@ Final Year Project (FYP) built with Flutter & Firebase, connecting users to loca
 ### 📊 [Pakistan Fashion Sentiment Analysis](https://github.com/husnaingujjar170/Fashion-Sentiment-Analysis)
 Analyzed public sentiment of Pakistani fashion brands using NLP, VADER, and Matplotlib with over 5,000+ comments processed.
 
----
 
 ## 📈 GitHub Stats
 
@@ -45,7 +42,6 @@ Analyzed public sentiment of Pakistani fashion brands using NLP, VADER, and Matp
 - 📧 husnaingujjar@example.com
 - 🌐 [Portfolio Website](https://your-portfolio.com) _(optional)_
 
----
 
 > 💡 *Always building. Always learning. Let’s create something amazing!*
 
