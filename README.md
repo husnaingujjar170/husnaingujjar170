@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Husnain Mahmood
 
-### 🚀 Software Engineer | FastAPI & React Developer | Firebase Auth Enthusiast
+### Software Engineer | FastAPI & React Developer | Firebase Auth Enthusiast
 
 I am a Computer Science graduate passionate about building real-world, full-stack applications using modern technologies like **React**, **FastAPI**, **Firebase**, and **Python**. I love creating clean, scalable code and contributing to the developer community.
 
